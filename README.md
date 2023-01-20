@@ -63,14 +63,16 @@ To obtain Tg,Bg,Cg, we need to compute differences of values across different sh
 ### Color Gradient
 ![Color Gradient](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Color_Gradients/Cg1.png)
 
+
 # Sobel and Canny baseline
 The outputs from Sobel and Canny edge detector are combined using weighted average method.
 
 ### Sobel baseline
-![Sobel](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/tree/main/Code/Image_Outputs/Solbel_Baseline)
+![Sobel](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Solbel_Baseline/Sobel_1.png)
 
 ### Canny baseline
 [!Canny](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Canny_Baseline/Canny1.png)
 
 ### Pb-lite output
 [!Pb-Lite](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Pb_lite%20Outputs/Pb1.png)
+
