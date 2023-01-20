@@ -71,8 +71,9 @@ The outputs from Sobel and Canny edge detector are combined using weighted avera
 ![Sobel](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Solbel_Baseline/Sobel_1.png)
 
 ### Canny baseline
-[!Canny](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Canny_Baseline/Canny1.png)
+![Canny](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Canny_Baseline/Canny1.png)
 
 ### Pb-lite output
-[!Pb-Lite](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Pb_lite%20Outputs/Pb1.png)
+![Pb-Lite](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Code/Image_Outputs/Pb_lite%20Outputs/Pb1.png)
+
 
